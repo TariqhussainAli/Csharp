@@ -1,0 +1,6 @@
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csprojResolveAssemblyReference.cache
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+c:\users\tariq hussain ali\documents\visual studio 2013\Projects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
